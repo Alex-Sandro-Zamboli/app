@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 env:
-  AZURE_WEBAPP_NAME: appteste
+  AZURE_WEBAPP_NAME: appalexkidsteste
   DOTNET_VERSION: '10.0.x'
   PROJECT_PATH: './WebApplication1/WebApplication1.csproj'
   PUBLISH_PATH: './publish'
